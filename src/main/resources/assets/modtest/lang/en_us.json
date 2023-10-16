@@ -1,4 +1,4 @@
 {
-  "item.modtest:pink_diamond": "Pink diamond"
-  "item.modtest:poop": "Poop"
+  "item.modtest.pink_diamond": "Pink diamond",
+  "item.modtest.poop": "Poop"
 }
